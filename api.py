@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Automate the Boring Stuff with Python" ,
+        "bookImage": "https://images-na.ssl-images-amazon.com/images/I/51CYYb0RZUL._SX376_BO1,204,203,200_.jpg",
+        "bookDescription": "Step-by-step instructions walk you through each program, and updated practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks.",
+        "bookAuthors" : "Al Sweigart"
+    },
 ]
 
 # Schema For the Book Request JSON
