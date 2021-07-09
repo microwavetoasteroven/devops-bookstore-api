@@ -4,6 +4,8 @@ A Python [Flask REST API](https://blog.miguelgrinberg.com/post/designing-a-restf
 
 ## Instructions
 
+Currently being built
+
 ### Running Locally
 
 The instructions assume that you have Python 3 installed.
