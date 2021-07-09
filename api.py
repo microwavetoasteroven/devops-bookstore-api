@@ -9,7 +9,7 @@ CORS(app)
 api = Api(app)
 metrics = RESTfulPrometheusMetrics(app, api)
 
-metrics.info('app_info', 'Application info', version='1.0', app_name='devops-bookstore-api')
+metrics.info('app_info', 'Application info', version='1.8', app_name='devops-bookstore-api')
 
 # A List of Dicts to store all of the books
 books = [{
